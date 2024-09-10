@@ -1,0 +1,14 @@
+.user-country {
+    text-align: center;
+  }
+  .user-card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 8px;
+    display: inline-block;
+    text-align: center;
+  }
+  .user-card img {
+    border-radius: 50%;
+  }
+  
